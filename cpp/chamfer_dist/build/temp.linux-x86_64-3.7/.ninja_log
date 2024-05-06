@@ -1,0 +1,7 @@
+# ninja log v5
+0	9984	1714906321666722379	/home/meer/桌面/welding_client/openpoints/cpp/chamfer_dist/build/temp.linux-x86_64-3.7/chamfer_cuda.o	586dbc6180863634
+1	47679	1714906359362817912	/home/meer/桌面/welding_client/openpoints/cpp/chamfer_dist/build/temp.linux-x86_64-3.7/chamfer.o	35a23718dc6cf868
+7	11447	1714906904286015121	/home/meer/桌面/welding_client/openpoints/cpp/chamfer_dist/build/temp.linux-x86_64-3.7/chamfer_cuda.o	ac97f2445e7927a0
+8	64594	1714906957434447634	/home/meer/桌面/welding_client/openpoints/cpp/chamfer_dist/build/temp.linux-x86_64-3.7/chamfer.o	1a2022141d79ea62
+0	11126	1715027510738871002	/home/meer/桌面/present/Kickoff-AI-Client/openpoints/cpp/chamfer_dist/build/temp.linux-x86_64-3.7/chamfer_cuda.o	99ee8f79f12b2e11
+0	21314	1715027520930706605	/home/meer/桌面/present/Kickoff-AI-Client/openpoints/cpp/chamfer_dist/build/temp.linux-x86_64-3.7/chamfer.o	ac649163e4796ebc
